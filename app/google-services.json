@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "480041020984",
+    "firebase_url": "https://musicmania-fd28d.firebaseio.com",
+    "project_id": "musicmania-fd28d",
+    "storage_bucket": "musicmania-fd28d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480041020984:android:675242a13209e6ce",
+        "android_client_info": {
+          "package_name": "com.example.anuradha.musicmania"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480041020984-fvq4mbg3u31q1b6up0pag76drlikols4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anuradha.musicmania",
+            "certificate_hash": "0e62906357300e93601b122d50b54fa28e40e497"
+          }
+        },
+        {
+          "client_id": "480041020984-u7p9udn7pg5k4f1tg3u5uberq8n1c3vg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP1ohZcJIWWzDULTgSgkuW47WwZW-miYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480041020984-u7p9udn7pg5k4f1tg3u5uberq8n1c3vg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
